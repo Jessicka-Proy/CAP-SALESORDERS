@@ -1,0 +1,9 @@
+Email,FirstName,LastName,Country,CreatedOn,OrderStatus,DeliveryDate,ImageUrl
+karivera90@gmail.com,Karina,Rivera,España,24/04/2023,3,2023-07-01T00:00:00Z,/orders/webapp/assets/customer_1.png
+ciperez02@gmail.com,Cinthya,Perez,Perú,03/03/2023,2,2023-03-18T00:00:00Z,/orders/webapp/assets/customer_2.png
+cgarcia08@gmail.com,Carlos,Garcia,Perú,24/08/2022,1,2023-04-22T00:00:00Z,/orders/webapp/assets/customer_3.png
+giagod76@gmail.com,Giancarlo,Godoy,Argentina,23/10/2022,3,2023-05-01T00:00:00Z,/orders/webapp/assets/customer_4.png
+mpareder23@gmail.com,Maria,Paredes,España,12/12/2022,1,2023-05-15T00:00:00Z,/orders/webapp/assets/customer_5.png
+asalas@gmail.com,Alberto,Salas,Ecuador,10/01/2022,1,2023-01-20T00:00:00Z,/orders/webapp/assets/customer_6.png
+patbolo22@gmail.com,Patricia,Bolo,Perú,12/02/2023,1,2023-06-03T00:00:00Z,/orders/webapp/assets/customer_7.png
+alebenav3@gmail.com,Alejandro,Benavides,México,09/01/2023,2,2023-05-31T00:00:00Z,/orders/webapp/assets/customer_8.png
